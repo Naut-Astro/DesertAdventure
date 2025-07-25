@@ -1,6 +1,10 @@
 # DesertAdventure
 A PgZero platformer demonstration, made with care as a Python test entry!
 
+The projects follows and meets the specified requirements because:
+* 1 - Imports and uses only pgzero;
+* 2 - 
+
 -/- HOW TO RUN -/-
 
 If you already have Python (3.7.x or newer) and PgZero installed:
