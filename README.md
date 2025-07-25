@@ -1,14 +1,22 @@
 # DesertAdventure
 A PgZero platformer demonstration, made with care as a Python test entry!
 <br><br><br>
-
-- ATTENTION: The game WILL NOT RUN if the .py file is not on the same directory as the asset folders, be sure that it is!
+-/- HOW TO RUN -/-
+<br><br>
+Provided that you have both Python (3.7.x or newer) and PgZero properly installed in your system, you can:
+ * Download and extract the .zip folder, containing the .py file and the assets folders;
+ * Open the command prompt, and navigate to the folder that you just extracted;
+ * Run the command: pgzrun desertadventure.py
+   
+And that should be it!
+   
+ATTENTION: The game WILL NOT RUN if the .py file is not on the same directory as the asset folders, be sure that it is!
 
 <br><br>
 -/- PROJECT REQUIREMENTS -/-
 <br><br>
 The projects follows and meets the specified requirements because:
-* 1: Imports and uses only pgzero;
+* 1: Imports and uses only pgzero (could have also imported Math and Random, but there was no need);
 * 2: Is a Platformer;
 * 3: There is a Main Menu with clickable buttons for
   * Starting the game,
