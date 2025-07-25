@@ -10,7 +10,9 @@ Provided that you have both Python (3.7.x or newer) and PgZero properly installe
    
 And that should be it!
    
-ATTENTION: The game WILL NOT RUN if the .py file is not on the same directory as the asset folders, be sure that it is!
+ATTENTION: The game WILL NOT RUN if:
+* The .py file is not on the same directory as the assets folders;
+* Your system does not have Python or PgZero properly installed;
 
 <br><br>
 -/- PROJECT REQUIREMENTS -/-
