@@ -14,8 +14,8 @@ And that should be it!
 ATTENTION: The game WILL NOT RUN if:
 * The .py file is not on the same directory as the assets folders;
 * Your system does not have Python or PgZero properly installed;
-
-<br><br>
+  
+<br>
 -/- PROJECT REQUIREMENTS -/-
 <br><br>
 The projects follows and meets the specified requirements because:
