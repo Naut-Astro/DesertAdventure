@@ -4,8 +4,9 @@ A PgZero platformer demonstration, made with care as a Python test entry!
 -/- HOW TO RUN -/-
 <br><br>
 Provided that you have both Python (3.7.x or newer) and PgZero properly installed in your system, you can:
- * Download and extract the .zip folder, containing the .py file and the assets folders;
- * Open the command prompt, and navigate to the folder that you just extracted;
+ * Download the project's .zip folder, in the Code>Download Zip option on the main page;
+ * Extract the .zip content, wich is the .py file and the assets folders;
+ * Open the command prompt and, through it, navigate to the folder on wich you extracted the .zip content to;
  * Run the command: pgzrun desertadventure.py
    
 And that should be it!
